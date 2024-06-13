@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VihangaNadeesha
-- 👀 I’m interested in Java Programming and Data Science
-- 🌱 I’m currently doing my intern as Trainee Associate Consaltunt ERP.
+- 👀 I’m interested in Java Programming and Data Science.
+- 🌱 I’ve completed my one year internship as a Trainee Associate Consaltunt ERP.
 - 💞️ I’m Final year Computer Science undergrad at University of Westminster. 
 - 📫 You can reach me on LinkedIn, Instagram and here, Github.
 
