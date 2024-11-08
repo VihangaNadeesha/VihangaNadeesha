@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VihangaNadeesha
 - 👀 I’m interested in Java Programming and Data Science.
-- 🌱 I’ve completed my one year internship as a Trainee Associate Consaltunt ERP.
-- 💞️ I’m Final year Computer Science undergrad at University of Westminster. 
+- 🌱 I’m working as SAP ABAP Consulatant at Hayleys Advantis Limited.
+- 💞️ I’m a Computer Science graduate at University of Westminster. 
 - 📫 You can reach me on LinkedIn, Instagram and here, Github.
 
 <!---
