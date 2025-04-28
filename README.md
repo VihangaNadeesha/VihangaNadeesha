@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VihangaNadeesha
 - 👀 I’m interested in Java Programming and Data Science.
-- 🌱 I’m working as SAP ABAP Consulatant at Hayleys Advantis Limited.
+- 🌱 I’m working as Associate SAP ABAP Consultant at Hayleys Advantis Limited.
 - 💞️ I’m a Computer Science graduate at University of Westminster. 
 - 📫 You can reach me on LinkedIn, Instagram and here, Github.
 
